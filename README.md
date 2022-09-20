@@ -22,4 +22,6 @@ type: `git config --global user.email [your-e-mail-account]`
 
 Verify the user settings runing `git config --list` again.
 
+Now you're all set!! 
+
 
